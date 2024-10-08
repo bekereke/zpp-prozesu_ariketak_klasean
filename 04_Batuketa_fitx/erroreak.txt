@@ -1,0 +1,2 @@
+Exception in thread "main" java.lang.Exception: Hau nahita botatako errore bat da
+	at unieibar.Batuketa.main(Batuketa.java:23)
